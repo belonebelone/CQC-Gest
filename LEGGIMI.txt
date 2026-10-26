@@ -1,0 +1,34 @@
+GESTIONE CQC
+============
+
+Avvio: doppio clic su GestioneCQC.exe. Non serve installare niente.
+
+La cartella si può spostare o copiare dove si vuole (anche su chiavetta USB):
+i dati restano sempre qui dentro, nella sottocartella "dati".
+
+  dati\conducenti.json    elenco dei conducenti
+  dati\backup\            copie automatiche prima di ogni modifica (ultime 30)
+
+Per non perdere i dati, copia ogni tanto la cartella "dati" in un posto sicuro.
+Per ripristinare un backup: chiudi il programma, copia il file scelto da
+dati\backup\ in dati\ e rinominalo conducenti.json.
+
+ACQUISIRE UNA PATENTE
+- "Acquisisci da foto": scegli la foto del fronte, poi quella del retro.
+  La lettura richiede da 10 a 30 secondi. Controlla i dati nella scheda e salva.
+- "Importa cartella": per molte patenti insieme. Le foto devono chiamarsi
+  <nome>_fronte.jpg e <nome>_retro.jpg (esempio: rossi_fronte.jpg, rossi_retro.jpg).
+  I documenti con dati incerti finiscono nel riquadro "Da verificare".
+
+Consigli per le foto: patente intera e ben dritta, sfondo uniforme e diverso dal rosa
+della card, niente riflessi o flash.
+
+COLORI
+  rosso       CQC scaduta
+  arancione   CQC in scadenza (entro il preavviso, predefinito 1 anno: "Impostazioni")
+  verde       CQC valida
+  grigio      data CQC mancante
+
+PRIVACY
+Le foto non vengono copiate nel programma. I dati dei conducenti sono dati personali:
+custodisci la cartella secondo le regole GDPR della tua autoscuola.

@@ -1,0 +1,48 @@
+{
+  "versione": 1,
+  "conducenti": [
+    {
+      "id": "12653bff1f214a26a1d859a1a388e304",
+      "cognome": "PITTINO",
+      "nome": "2SEVERINO",
+      "data_nascita": "1968-12-10",
+      "luogo_nascita": "MONTREUX (CHE)",
+      "numero_patente": "UD5515077K",
+      "categorie": "",
+      "data_rilascio": "2026-08-17",
+      "data_scadenza_patente": "2031-08-10",
+      "data_scadenza_cqc": "2031-08-17",
+      "da_verificare": true,
+      "problemi_acquisizione": [
+        "categorie: mancante",
+        "CQC trovata ma nessuna categoria C/D sul fronte"
+      ],
+      "telefono": "",
+      "email": "",
+      "note": "",
+      "creato": "2026-10-26T22:59:55",
+      "modificato": "2026-10-26T22:59:55"
+    },
+    {
+      "id": "ec4f3de02c68441189464250256c21a8",
+      "cognome": "LAZIC",
+      "nome": "DEJAN",
+      "data_nascita": "1965-03-02",
+      "luogo_nascita": "PETROVACNA MLAVI (SRB)",
+      "numero_patente": "",
+      "categorie": "AM B C D BE CE DE",
+      "data_rilascio": "2026-07-31",
+      "data_scadenza_patente": "2030-03-02",
+      "data_scadenza_cqc": "2031-07-31",
+      "da_verificare": true,
+      "problemi_acquisizione": [
+        "numero_patente: mancante"
+      ],
+      "telefono": "",
+      "email": "",
+      "note": "",
+      "creato": "2026-10-26T23:00:31",
+      "modificato": "2026-10-26T23:00:31"
+    }
+  ]
+}
